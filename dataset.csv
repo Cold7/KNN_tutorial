@@ -1,0 +1,99 @@
+Nombre,Inteligencia,Fuerza,Agilidad,Resistencia,Clasificacion
+Superman,5.1,3.5,1.4,0.2,Heroe
+Batman,4.9,3.0,1.4,0.2,Heroe
+Wonder Woman,4.7,3.2,1.3,0.2,Heroe
+Iron Man,5.0,3.6,1.4,0.2,Heroe
+Captain America,5.4,3.9,1.7,0.4,Heroe
+Thor,4.6,3.4,1.4,0.3,Heroe
+Hulk,5.0,3.4,1.5,0.2,Heroe
+Black Widow,4.4,2.9,1.4,0.2,Heroe
+Wolverine,4.9,3.1,1.5,0.1,Heroe
+Deadpool,5.4,3.7,1.5,0.2,Heroe
+Flash,4.8,3.4,1.6,0.2,Heroe
+Green Lantern,4.8,3.0,1.4,0.1,Heroe
+Aquaman,4.3,3.0,1.1,0.1,Heroe
+Doctor Strange,5.8,4.0,1.2,0.2,Heroe
+Black Panther,5.7,4.4,1.5,0.4,Heroe
+Supergirl,5.4,3.9,1.3,0.4,Heroe
+Robin,5.1,3.5,1.4,0.3,Heroe
+Cyclops,5.7,3.8,1.7,0.3,Heroe
+Jean Grey,5.1,3.8,1.5,0.3,Heroe
+Storm,5.4,3.4,1.7,0.2,Heroe
+Nightcrawler,5.1,3.7,1.5,0.4,Heroe
+Daredevil,4.6,3.6,1.0,0.2,Heroe
+Hawkeye,5.1,3.3,1.7,0.5,Heroe
+Scarlet Witch,4.8,3.4,1.9,0.2,Heroe
+Ant-Man,5.0,3.0,1.6,0.2,Heroe
+The Wasp,5.0,3.4,1.6,0.4,Heroe
+Shazam,5.2,3.5,1.5,0.2,Heroe
+Green Arrow,5.2,3.4,1.4,0.2,Heroe
+Beast,4.7,3.2,1.6,0.2,Heroe
+Jean Grey,4.8,3.1,1.6,0.2,Heroe
+Professor X,5.4,3.4,1.5,0.4,Heroe
+Silver Surfer,5.2,4.1,1.5,0.1,Heroe
+Luke Cage,5.5,4.2,1.4,0.2,Heroe
+Jessica Jones,4.9,3.1,1.5,0.1,Heroe
+Punisher,5.0,3.2,1.2,0.2,Heroe
+Rorschach,5.5,3.5,1.3,0.2,Heroe
+Martian Manhunter,4.9,3.1,1.5,0.1,Heroe
+Catwoman,4.4,3.0,1.3,0.2,Heroe
+Hawkman,5.1,3.4,1.5,0.2,Heroe
+Atom,5.0,3.5,1.3,0.3,Heroe
+Zatanna,4.5,2.3,1.3,0.3,Heroe
+Captain Marvel,4.4,3.2,1.3,0.2,Heroe
+Falcon,5.0,3.5,1.6,0.6,Heroe
+Star-Lord,5.1,3.8,1.9,0.4,Heroe
+Gamora,4.8,3.0,1.4,0.3,Heroe
+Groot,5.1,3.8,1.6,0.2,Heroe
+Rocket Raccoon,4.6,3.2,1.4,0.2,Heroe
+Doctor Manhattan,5.3,3.7,1.5,0.2,Heroe
+Hellboy,5.0,3.3,1.4,0.2,Heroe
+Joker,7.0,3.2,4.7,1.4,Villano
+Thanos,6.4,3.2,4.5,1.5,Villano
+Lex Luthor,6.9,3.1,4.9,1.5,Villano
+Magneto,5.5,2.3,4.0,1.3,Villano
+Loki,6.5,2.8,4.6,1.5,Villano
+Green Goblin,5.7,2.8,4.5,1.3,Villano
+Red Skull,6.3,3.3,4.7,1.6,Villano
+Doctor Octopus,4.9,2.4,3.3,1.0,Villano
+Ra's al Ghul,6.6,2.9,4.6,1.3,Villano
+Two-Face,5.2,2.7,3.9,1.4,Villano
+Venom,5.0,2.0,3.5,1.0,Villano
+Bane,5.9,3.0,4.2,1.5,Villano
+Darkseid,6.0,2.2,4.0,1.0,Villano
+Kingpin,6.1,2.9,4.7,1.4,Villano
+Ultron,5.6,2.9,3.6,1.3,Villano
+Apocalypse,6.7,3.1,4.4,1.4,Villano
+Mystique,5.6,3.0,4.5,1.5,Villano
+Hela,5.8,2.7,4.1,1.0,Villano
+Penguin,6.2,2.2,4.5,1.5,Villano
+Riddler,5.6,2.5,3.9,1.1,Villano
+Scarecrow,5.9,3.2,4.8,1.8,Villano
+Sinestro,6.1,2.8,4.0,1.3,Villano
+Enchantress,6.3,2.5,4.9,1.5,Villano
+Catwoman (en ocasiones villana),6.1,2.8,4.7,1.2,Villano
+Harley Quinn (a veces villana),6.4,2.9,4.3,1.3,Villano
+Poison Ivy,6.6,3.0,4.4,1.4,Villano
+Sandman,6.8,2.8,4.8,1.4,Villano
+Electro,6.7,3.0,5.0,1.7,Villano
+Mandarin,6.0,2.9,4.5,1.5,Villano
+Mr. Freeze,5.7,2.6,3.5,1.0,Villano
+Vulture,5.5,2.4,3.8,1.1,Villano
+Carnage,5.5,2.4,3.7,1.0,Villano
+Juggernaut,5.8,2.7,3.9,1.2,Villano
+Taskmaster,6.0,2.7,5.1,1.6,Villano
+Deathstroke,5.4,3.0,4.5,1.5,Villano
+The Hood,6.0,3.4,4.5,1.6,Villano
+Mysterio,6.7,3.1,4.7,1.5,Villano
+Kraven the Hunter,6.3,2.3,4.4,1.3,Villano
+Dormammu,5.6,3.0,4.1,1.3,Villano
+Baron Zemo,5.5,2.5,4.0,1.3,Villano
+Kingpin,5.5,2.6,4.4,1.2,Villano
+Apocalypse,6.1,3.0,4.6,1.4,Villano
+Maleficent,5.8,2.6,4.0,1.2,Villano
+Ursula,5.0,2.3,3.3,1.0,Villano
+Scar,5.6,2.7,4.2,1.3,Villano
+Jafar,5.7,3.0,4.2,1.2,Villano
+Gaston,5.7,2.9,4.2,1.3,Villano
+Syndrome,6.2,2.9,4.3,1.3,Villano
+Davy Jones,5.1,2.5,3.0,1.1,Villano
